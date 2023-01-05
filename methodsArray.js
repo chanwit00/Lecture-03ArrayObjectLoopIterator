@@ -21,3 +21,10 @@ let newArr = arr1.concat(arr2);
 let newArr2 = arr2.concat([1,2,3]);
 console.log(newArr);
 console.log(newArr2);
+
+let arr4 = ["chanwit", "kenwong", 2];
+connsole.log(arr4);
+console.log(arr4.push("Green"));
+console.log(arr4);
+console.log(arr4.pop());
+console.log(arr4);
